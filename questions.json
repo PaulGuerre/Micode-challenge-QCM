@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Qu'est-ce que HTML?",
+    "answers": [
+      "HyperText Markup Language",
+      "High Technology Markup Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle est la sortie du programme suivant : print('Hello, world!')",
+    "answers": [
+      "Hello, world!",
+      "print('Hello, world!')",
+      "Erreur de syntaxe"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle est la fonction principale d'un système d'exploitation?",
+    "answers": [
+      "Gérer les ressources matérielles et logicielles",
+      "Exécuter les applications",
+      "Afficher des publicités",
+      "Créer des sites web"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle est la différence entre un algorithme et un programme?",
+    "answers": [
+      "Un algorithme est une série d'étapes pour résoudre un problème, tandis qu'un programme est un ensemble d'instructions exécutables par un ordinateur.",
+      "Il n'y a pas de différence.",
+      "Un algorithme est utilisé pour la conception de logiciels, tandis qu'un programme est utilisé pour la conception de matériels."
+    ],
+    "correctAnswer": 0
+  }
+]

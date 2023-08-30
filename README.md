@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Micode challenge : create a functional MCQ website in 2 hours
 
-## Getting Started
+## Time
 
-First, run the development server:
+I spent 1 hour and a half on this project, the following code is the result of this time.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Functionalities
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+On the website, you can choose an answer in the list of displayed ones, and then click on the "Next" button to go to the next question. At the end, you can see your score. As long as you do not have clicked on the "Next" button, you can change your answer.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For this project, I decided to try Next.js. I know it's probably not the best framework for that kind of really lightweight project, but it was also the occasion to try something else! Feel free to explore the code, and to give me feedbacks on it!
